@@ -18,7 +18,7 @@
 - 🔭 Building Full Stack Web Applications
 - 🧪 Experience with Automation Testing using Cypress
 - 💡 Love solving real-world problems through code
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: thejeshtheju2525@gmail.com
 
 ---
 
