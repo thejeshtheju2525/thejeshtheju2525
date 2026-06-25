@@ -117,14 +117,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=thejeshtheju2525&theme=algolia&column=4"/>
-
-</p>
-
 ---
 
 # 📊 Activity Graph
