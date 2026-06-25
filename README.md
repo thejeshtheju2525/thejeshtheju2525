@@ -1,115 +1,152 @@
-<h1 align="center">Hi 👋, I'm Thejesh Reddy Kanchi</h1>
-<h3 align="center">Java Full Stack Developer | Software Engineer | Problem Solver</h3>
+# Hi there 👋, I'm Thejesh Reddy Kanchi
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Developer;Full+Stack+Developer;SQL+%7C+React+%7C+REST+APIs;Always+Learning+New+Technologies" />
-</p>
+<div align="center">
+
+### 💻 Java Full Stack Developer | Software Engineer | Automation Testing Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;React+Developer;Automation+Testing+with+Cypress;Spring+Boot+Developer;Always+Learning+New+Technologies" />
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Master's in Computer & Information Science
-- 💻 Passionate Java Full Stack Developer
-- 🌱 Currently learning Spring Boot Microservices & System Design
-- 🚀 Interested in Backend Development and Cloud Technologies
-- 🔍 Looking for Full-Time Software Engineer / Java Developer opportunities
-- 📍 Texas, USA
+- 🎓 Bachelor of Technology in Computer Science
+- 💼 Passionate Java Full Stack Developer
+- 🌱 Currently learning Spring Boot, Microservices & Cloud
+- 🔭 Building Full Stack Web Applications
+- 🧪 Experience with Automation Testing using Cypress
+- 💡 Love solving real-world problems through code
+- 📫 Reach me: **your-email@example.com**
 
 ---
 
 ## 🚀 Tech Stack
 
-### Languages
+### Programming Languages
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Testing
+
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
+# 📌 Featured Projects
 
-### 🏦 CRM Management System
-- React
-- REST API
-- JSON Server
+## 🚀 CRM Management System
+
+✔ Contact Management
+
+✔ Company Management
+
+✔ Lead Management
+
+✔ Deal Management
+
+✔ Dashboard Analytics
+
+✔ React + JSON Server
+
+✔ Cypress Automation Testing
+
+---
+
+## 🎓 Student Management System
+
+- Core Java
+- JDBC
+- MySQL
 - CRUD Operations
-- Lead Management
-- Contact Management
-- Deal Management
 
 ---
 
-### 🎓 Student Management System
-Java application for managing student records using Object-Oriented Programming principles.
+## 🌐 Personal Portfolio Website
+
+- Responsive Design
+- HTML
+- CSS
+- JavaScript
 
 ---
 
-### 🌐 Personal Portfolio
-A responsive portfolio website showcasing projects, skills, and certifications.
-
----
-
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thejeshtheju2525&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thejeshtheju2525&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=thejeshtheju2525&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejeshtheju2525&layout=compact&theme=tokyonight"/>
 
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejeshtheju2525&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📜 Certifications
+# 🔥 GitHub Streak
 
-- Java Programming
-- SQL
-- Spring Boot
-- Web Development
-- Object-Oriented Programming
+<p align="center">
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thejeshtheju2525&theme=tokyonight"/>
 
-## 📫 Connect with Me
-
-📧 Email: your-email@example.com
-
-💼 LinkedIn:
-https://linkedin.com/in/your-linkedin
-
-🌐 GitHub:
-https://github.com/thejeshtheju2525
+</p>
 
 ---
 
-## 💡 Quote
+# 🏆 GitHub Trophies
 
-> "First, solve the problem. Then, write the code." – John Johnson
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=thejeshtheju2525&theme=algolia&column=4"/>
+
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 📊 Activity Graph
+
+[![Thejesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thejeshtheju2525&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🌐 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/thejeshtheju2525)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kanchi-thejesh-reddy)
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+### If you like my projects, don't forget to ⭐ them.
+
+<img src="https://komarev.com/ghpvc/?username=thejeshtheju2525&label=Profile%20Views&color=orange&style=for-the-badge"/>
+
+</div>
